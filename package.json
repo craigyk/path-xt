@@ -1,6 +1,6 @@
 {
-  "name": "path-xt",
-  "version": "0.0.0",
+  "name": "fs-xt",
+  "version": "0.0.1",
   "description": "built in path module with added functions",
   "main": "lib/index.js",
   "scripts": {
@@ -12,5 +12,9 @@
     "url": "https://github.com/craigyk/path-xt.git"
   },
   "author": "Craig Yoshioka",
-  "license": "BSD"
+  "license": "BSD",
+  "keywords": [
+    "fs",
+    "extensions"
+  ]
 }
