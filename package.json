@@ -2,9 +2,8 @@
   "name": "fs-xt",
   "version": "0.0.3",
   "description": "built in path module with added functions",
-  "main": "lib/index.js",
+  "main": "src/fs-xt.coffee",
   "scripts": {
-    "prepublish": "coffee -o lib -c src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
